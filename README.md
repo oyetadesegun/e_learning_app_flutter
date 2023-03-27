@@ -24,7 +24,7 @@ Run the app on a simulator or device using flutter run.
 
 
 Credits
-This app was created by [Your Name] as part of a Flutter development course.
+This app was created by @oyetadesegun as part of a Flutter development course.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
